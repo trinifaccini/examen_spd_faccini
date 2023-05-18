@@ -6,7 +6,7 @@
 
 ## Requisitos del proyecto
 
-1- Interfaz de usuario
+1. Interfaz de usuario
 * Deberá haber 3 botones, uno para subir pisos, otro para bajar pisos y otro para detener el montacarga.
 * Deberá tener 2 LEDs, uno verde que indicará cuando el montacarga este en movimiento, otro rojo que indique cuando el montacarga esté pausado.
 * En el display 7 segmentos deberán informar en tiempo real en qué piso se
@@ -15,12 +15,12 @@ encuentra el elevador.
 Se deberá informar por monitor serial el piso en el que se encuentra el
 montacarga, este en funcionamiento o en pausa.
 
-- 2: Funcionamiento del montacarga
+2. Funcionamiento del montacarga
 * Implementa un algoritmo que permita que el elevador suba y baje o frene presionando los botones correspondientes.
 * Deberán buscar una forma para pausar el montacargas cuando el usuario lo
 determine.
 
-- 3: Documentación:
+3. Documentación:
 * Deberán presentar un diagrama esquemático del circuito y explicar el funcionamiento aplicado de cada componente.
 * Presentar el código fuente del proyecto de Arduino listo para ser implementado.
 * Deberán explicar el funcionamiento integral utilizando documentación MarkDown.
