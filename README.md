@@ -6,7 +6,7 @@
 
 ## Requisitos del proyecto
 
-- 1: Interfaz de usuario
+1- Interfaz de usuario
 * Deberá haber 3 botones, uno para subir pisos, otro para bajar pisos y otro para detener el montacarga.
 * Deberá tener 2 LEDs, uno verde que indicará cuando el montacarga este en movimiento, otro rojo que indique cuando el montacarga esté pausado.
 * En el display 7 segmentos deberán informar en tiempo real en qué piso se
