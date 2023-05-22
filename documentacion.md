@@ -52,10 +52,13 @@ Este boton, al estar configurado como INPUT PULLUP tienen su terminal 2a conecta
 POST AGREGADO
 
 - 1 Servo
+Este servo comienza en 0 grados y se movera a 180 grados cuando el sistema no se encuentre pausado. Volvera a su posicion original si el sistema se pausa.
 
 - 1 Sensor de fuerza
+Este sensor de fuerza simula el peso del montacargas. Según la resistencia que esté recibiendo se definirá el peso, y si este es mayor al permitido el montacargas no funcionará.
 
 - 1 Fotodiodo
+Este componente se utiliza para simular el dia y la noche. En principio este montacargas solo funcionara en horarios de dia. 
 
 ## Mecanismo del proyecto
 
