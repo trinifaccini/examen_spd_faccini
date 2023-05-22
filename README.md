@@ -1,7 +1,5 @@
 # EXAMEN PRACTICO PRIMER CUATRIMESTE - SPD - TRINIDAD FACCINI
 
-![Tinkercard](https://github.com/trinifaccini/dojo-uno/blob/main/img/PARCIAL_FACCINI_TRINIDAD_1°D.png)
-
 ## Requisitos del proyecto
 
 1. Interfaz de usuario
