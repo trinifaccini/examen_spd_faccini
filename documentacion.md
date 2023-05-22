@@ -44,6 +44,7 @@ Inicialmente el montacargas se encontrará pausado y en el piso cero (planta baj
 Si el usuario desea subir o bajar el montacargas, deberá tocar el boton correspondiente. Una vez apretado comenzará el movimiento elegido por el usuario. 
 
 Una vez en movimiento la luz verde se encenderá, la luz roja se apagará y el display 7 segmentos irá mostrándo el número de cambio de piso.
+Este numero cambiará cada 3 segundos, ya que ese es el tiempo que tarda en pasar por cada uno de los pisos.
 
 Si quisiera parar el movimiento, tanto de subida o de bajada, deberá tocar el boton de pausa y el montacargas detendrá su movimiento, volviendo a encender la luz roja y apagando la luz verde.
 
