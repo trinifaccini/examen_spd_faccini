@@ -3,10 +3,12 @@
 ## Componentes, conexiones y su funcionalidad
 
 - 1 Display 7 segmentos para informar al usuario el piso en el que se encuentra el montacargas
+
 Este se encuentra conectado a tierra y cada uno de sus segmentos led conectado a un pin de salida digital con una resistencia de 220 Ohms
 
 - 1 led color rojo para informar que el montacargas se encuentra pausado
 - 1 led color verde para informar que el montacargas se encuentra subiendo o bajando 
+
 Cada led conectado a tierra desde su cátodo y conectado a un pin de salida digital con una resistencia de 220 Ohms
 
 - 1 push button para pausar el montacargas
