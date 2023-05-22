@@ -7,7 +7,7 @@ Este se encuentra conectado a tierra y cada uno de sus segmentos led conectado a
 
 - 1 led color rojo para informar que el montacargas se encuentra pausado
 - 1 led color verde para informar que el montacargas se encuentra subiendo o bajando 
-  Cada led conectado a tierra desde su cátodo y conectado a un pin de salida digital con una resistencia de 220 Ohms
+Cada led conectado a tierra desde su cátodo y conectado a un pin de salida digital con una resistencia de 220 Ohms
 
 - 1 push button para pausar el montacargas
   Este boton, al estar configurado como INPUT PULLUP tienen su terminal 2a conectada directamente a tierra y su terminal 1a conectada directamente a un pin, no se usan resistencias. 
