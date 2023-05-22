@@ -1,10 +1,10 @@
 # Documentacion 
 
-![Tinkercard](/Users/trinifaccini/Desktop/UTN/SPD/examen_spd_faccini/img/PARCIAL_FACCINI_TRINIDAD_1D.png)
+![Tinkercard](img/PARCIAL_FACCINI_TRINIDAD_1D.png)
 
 ## Esquema
 
-![Tinkercard](/Users/trinifaccini/Desktop/UTN/SPD/examen_spd_faccini/img/PARCIAL_FACCINI_TRINIDAD_1D.pdf)
+![Tinkercard](img/PARCIAL_FACCINI_TRINIDAD_1D.pdf)
 
 ## Componentes, conexiones y su funcionalidad
 
