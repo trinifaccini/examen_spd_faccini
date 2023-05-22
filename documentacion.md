@@ -4,7 +4,7 @@
 
 ## Esquema
 
-![Tinkercard](img/PARCIAL_FACCINI_TRINIDAD_1D.pdf)
+[Esquema-PDF](img/PARCIAL_FACCINI_TRINIDAD_1D.pdf)
 
 ## Componentes, conexiones y su funcionalidad
 
