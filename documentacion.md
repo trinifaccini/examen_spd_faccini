@@ -1,10 +1,22 @@
 # Documentacion 
 
+PREVIO AL AGREGADO
+
 ![Tinkercard](img/PARCIAL_FACCINI_TRINIDAD_1D.png)
+
+POST AGREGADO 
+
+![Tinkercard](img/PARCIAL_FACCINI_TRINIDAD_1D_AGREGADO.png)
 
 ## Esquema
 
+PREVIO AL AGREGADO
+
 [Esquema-PDF](img/PARCIAL_FACCINI_TRINIDAD_1D.pdf)
+
+POST AGREGADO
+
+[Esquema-PDF](img/PARCIAL_FACCINI_TRINIDAD_1D_AGREGADO.pdf)
 
 ## Componentes, conexiones y su funcionalidad
 
