@@ -31,7 +31,8 @@ Demostrar los conocimientos aprendidos en la materia Sistema de Procesamiento de
 [Documentacion proyecto](https://github.com/trinifaccini/examen_spd_faccini/blob/master/documentacion.md)
 ## Función principal
 
-Esta función se encarga de cambiar el estado del sistema del montacargas.
+Esta función se encarga de cambiar el estado del sistema del montacargas según el boton que haya apretado el usuario.
+Solo cambiará el estado del sistema si este no se encotraba anteriormente en el estado al que se desea cambiar (por ejemplo, el montacargas estaba subiendo y se vuelve a apretar el boton para comenzar a subir) o si se desea ejectuar un movimiento posible (por ejemplo, no va a cambiar de estado si se encuentra en el úlitmo piso y se apreta el boton para subir, ya que no puede continuar subiendo)
 
 ~~~ C++ 
 
