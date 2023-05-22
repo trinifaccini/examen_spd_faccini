@@ -26,6 +26,9 @@ determine.
 ## Finalidad del proyecto
 Demostrar los conocimientos aprendidos en la materia Sistema de Procesamiento de Datos.
 
+## Documentacion
+
+[Documentacion proyecto](https://github.com/trinifaccini/examen_spd_faccini/blob/master/documentacion.md)
 ## Función principal
 
 Esta función se encarga de cambiar el estado del sistema del montacargas.
