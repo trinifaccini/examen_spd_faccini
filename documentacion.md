@@ -18,7 +18,7 @@
 - 1 push button para hacer que el montacargas suba
   
   Este boton esta configurado como PULLDOWN, por lo tanto:  
-  Su terminal 1a esta conectada directamente al pin. 
+  Su terminal 1a esta conectada directamente al pin.   
   Su terminal 2a esta conectada a tierra con una resistencia de 10kΩ. 
   Su terminal 2b esta conectada directamente a 5 volteos
 
