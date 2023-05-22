@@ -58,5 +58,5 @@ void CambiarEstadoSistema(int pausa, int sube, int baja, int primer_piso, int ul
 }
 ~~~
 
-## :robot: Link al proyecto
-- [Tinkercard-Trinidad-Faccini](https://www.tinkercad.com/things/9P5PWI00o0g-copy-of-parcial-faccini-trinidad-1d/editel?sharecode=AXw5kHL_Jth6nJx7EqBY9xx2F4ZfyMcmLQTsSouAg4A)
+## Link al proyecto
+[Tinkercard](https://www.tinkercad.com/things/9P5PWI00o0g-copy-of-parcial-faccini-trinidad-1d/editel?sharecode=AXw5kHL_Jth6nJx7EqBY9xx2F4ZfyMcmLQTsSouAg4A)
