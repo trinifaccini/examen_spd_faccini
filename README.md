@@ -2,8 +2,6 @@
 
 ![Tinkercard](https://github.com/trinifaccini/dojo-uno/blob/main/img/PARCIAL_FACCINI_TRINIDAD_1°D.png)
 
-## Consigna
-
 ## Requisitos del proyecto
 
 1. Interfaz de usuario
@@ -24,8 +22,6 @@ determine.
 * Deberán presentar un diagrama esquemático del circuito y explicar el funcionamiento aplicado de cada componente.
 * Presentar el código fuente del proyecto de Arduino listo para ser implementado.
 * Deberán explicar el funcionamiento integral utilizando documentación MarkDown.
-
-## Descripción
 
 ## Finalidad del proyecto
 Demostrar los conocimientos aprendidos en la materia Sistema de Procesamiento de Datos.
