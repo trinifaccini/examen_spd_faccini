@@ -8,6 +8,8 @@
 
 ## Componentes, conexiones y su funcionalidad
 
+PREVIO AL AGREGADO
+
 - 1 Display 7 segmentos para informar al usuario el piso en el que se encuentra el montacargas
 
 Este display, al ser tipo cátodo compun, se encuentra conectado a tierra y cada uno de sus segmentos led conectado a un pin de salida digital con una resistencia de 220Ω
@@ -35,11 +37,21 @@ Este boton, al estar configurado como INPUT PULLUP tienen su terminal 2a conecta
   Su terminal 2a esta conectada directamente a tierra.  
   Su terminal 1a esta conectada a 5 volteos con una resisencia de 10kΩ.  
 
+POST AGREGADO
+
+- 1 Servo
+
+- 1 Sensor de fuerza
+
+- 1 Fotodiodo
+
 ## Mecanismo del proyecto
 
 El proyecto se trata de un modelo de montacarga funcional que se usará como una maqueta para un hospital. 
 
 Inicialmente el montacargas se encontrará pausado y en el piso cero (planta baja). Esto el usuario lo podrá saber porque la luz roja estará encendida y el display 7 segmentos, que informa el piso actual del montacargas, mostrará el número cero.
+
+El sistema del montacargas solo funcionará si es de día y si el peso del montacargas es el adecuado. En caso de que el peso sea mayor al permitido o no sea de dia, el montacargas se pausará y no continuará con el movimiento. 
 
 Si el usuario desea subir o bajar el montacargas, deberá tocar el boton correspondiente. Una vez apretado comenzará el movimiento elegido por el usuario. 
 
