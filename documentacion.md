@@ -4,12 +4,12 @@
 
 - 1 Display 7 segmentos para informar al usuario el piso en el que se encuentra el montacargas
 
-  Este se encuentra conectado a tierra y cada uno de sus segmentos led conectado a un pin de salida digital con una resistencia de 220 Ohms
+  Este se encuentra conectado a tierra y cada uno de sus segmentos led conectado a un pin de salida digital con una resistencia de 220Ω
 
 - 1 led color rojo para informar que el montacargas se encuentra pausado
 - 1 led color verde para informar que el montacargas se encuentra subiendo o bajando 
 
-  Cada led conectado a tierra desde su cátodo y conectado a un pin de salida digital con una resistencia de 220 Ohms
+  Cada led conectado a tierra desde su cátodo y conectado a un pin de salida digital con una resistencia de 220Ω
 
 - 1 push button para pausar el montacargas
 
@@ -19,7 +19,7 @@
   
   Este boton esta configurado como PULLDOWN, por lo tanto:
   Su terminal 1a esta conectada directamente al pin
-  Su terminal 2a esta conectada a tierra con una resistencia de 10 Ohms
+  Su terminal 2a esta conectada a tierra con una resistencia de 10kΩ
   Su terminal 2b esta conectada directamente a 5 volteos
 
 - 1 push button para hacer que el montacargas baje 
@@ -27,7 +27,7 @@
   Este boton esta configurado como PULLUP, por lo tanto:
   Su terminal 1b esta conectada directamente al pin
   Su terminal 2a esta conectada directamente a tierra
-  Su terminal 1a esta conectada a 5 volteos con una resisencia de 10 Ohms
+  Su terminal 1a esta conectada a 5 volteos con una resisencia de 10kΩ
 
 ## Mecanismo del proyecto
 
